@@ -1,0 +1,8 @@
+{
+  "name": "TestVideoApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "62a2df3d"
+}
